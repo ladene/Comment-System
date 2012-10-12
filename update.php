@@ -1,4 +1,4 @@
-<!-- Codes by Quackit.com -->
+
 <html>
 <head>
 <link href='http://fonts.googleapis.com/css?family=Noticia%20Text' rel='stylesheet' type='text/css'>
